@@ -1,7 +1,7 @@
 # Enhancing User Safety and Satisfaction: A Pixel Messages Proposal
 
 ## Introduction:
-As a junior software engineer at Google, I am excited to propose a solution to improve user safety and satisfaction through the integration of visual cues into the Pixel Messages app.
+As a junior software engineer inspired by Google, I am excited to propose a solution to improve user safety and satisfaction through the integration of visual cues into the Pixel Messages app.
 
 ## Problem Statement:
 Smartphones have become an integral part of our lives, providing seamless communication through messaging apps. However, distracted walking has become a significant safety concern, with users engrossed in texting while navigating busy streets, parks, or public places, leading to potential accidents and injuries.
@@ -12,8 +12,12 @@ I am proposing the integration of visual cues into Pixel Messages to help users 
 ## Feature Description 1: Transparent Overlay
 Display a semi-transparent overlay on the texting interface, allowing users to see through the app and stay aware of nearby objects or pedestrians.
 
-![Transparent Overlay](Vision_Images/transparent_overlay.png)
-
+### Walking
+![Transparent Overlay](images\transparent_overlay.png)
+### Slow walking
+![Transparent Overlay](images\transparent_overlay1.png)
+### Static
+![Transparent Overlay](images\transparent_overlay1.png)
 ## Feature Description 2: Peripheral Warning
 Implement a subtle color change on the edges of the texting interface to draw the user's attention to the phone's periphery.
 
