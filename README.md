@@ -19,19 +19,35 @@ Display a semi-transparent overlay on the texting interface, allowing users to s
 ### Static
 ![Transparent Overlay](images/transparent_overlay2.png)
 ## Feature Description 2: Peripheral Warning
-Implement a subtle color change on the edges of the texting interface to draw the user's attention to the phone's periphery.
 
-![Peripheral Warning](Vision_Images/peripheral_warning.png)
+The peripheral warning feature introduces a subtle yet effective visual cue to draw the user's attention to the phone's periphery when texting and walking. We have creatively designed a radar-like overlay with circles at the top of the phone screen to resemble a radar system.
+
+### Peripheral Warning:
+
+As the user starts walking and texting, the radar overlay activates and gently pulses with a soft glow. The circles appear to detect motion, mimicking the behavior of a radar detecting objects. This animation helps users maintain awareness of their surroundings without interrupting their messaging experience. The peripheral warning provides an intuitive and non-intrusive way to remind users to stay vigilant while walking and texting.
+
+The color scheme and animation have been thoughtfully designed to complement the overall Pixel Messages app aesthetic, ensuring a seamless integration of the peripheral warning feature.
+
+![Peripheral Warning](images/peripheral_warning.png)
+
+
+By incorporating this peripheral warning feature, we aim to enhance user safety by promoting responsible mobile device usage while fostering an enjoyable messaging experience.
+
 
 ## Feature Description 3: Haptic Feedback
 Introduce gentle haptic feedback when users text and walk simultaneously, serving as a non-intrusive reminder of the potential risks.
 
-![Haptic Feedback](Vision_Images/haptic_feedback.png)
+### Haptic Feedback 
+By introducing gentle haptic vibrations, users can sense subtle physical cues that align with their messaging actions.
+![Haptic Feedback](images/haptic_feedback.png)
 
 ## Feature Description 4: Proximity Alerts
 Utilize the phone's sensors to detect obstacles in the user's path and notify them through pop-up notifications or warning sounds.
 
 ![Proximity Alerts](Vision_Images/proximity_alerts.png)
+
+_**Note**: The vision image is a conceptual representation and does not necessarily reflect the final implementation. The actual design and appearance may be subject to iterative improvements and user feedback during the development process._
+
 
 ## User Experience:
 The primary focus is to create a seamless user experience that prioritizes safety without sacrificing the convenience of text messaging. These visual cues will empower users to stay connected responsibly, reducing the risk of accidents and ensuring a more satisfying messaging experience.
