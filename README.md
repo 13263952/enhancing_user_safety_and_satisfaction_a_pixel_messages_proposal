@@ -32,7 +32,7 @@ The app utilizes sensors to detect obstacles and provides timely pop-up notifica
 ![Proximity Alerts](images/proximity_alerts.png)
 
 ## User Experience:
-Our focus is to create a seamless and safe messaging experience, empowering users to stay connected responsibly.
+We focus is to create a seamless and safe messaging experience, empowering users to stay connected responsibly.
 
 ## Customization Options:
 Users can adjust the intensity of visual cues or disable them according to their preferences.
@@ -44,7 +44,7 @@ We prioritize user privacy, ensuring all data collected is anonymized and used s
 We plan to conduct beta testing to gather valuable feedback and refine the features.
 
 ## Conclusion:
-With Pixel Messages, we aim to revolutionize mobile communication by prioritizing user safety and satisfaction. As a junior software engineer, I am excited about the prospect of being part of this transformative project, contributing to its success under your esteemed mentorship.
+With Pixel Messages, lets aim to revolutionize mobile communication by prioritizing user safety and satisfaction. As a junior software engineer, I am excited about the prospect of being part of this transformative project, contributing to its success under your esteemed mentorship.
 
 
 _**Note**: The vision images are conceptual representations and subject to iterative improvements during development._
