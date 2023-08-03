@@ -13,11 +13,11 @@ I am proposing the integration of visual cues into Pixel Messages to help users 
 Display a semi-transparent overlay on the texting interface, allowing users to see through the app and stay aware of nearby objects or pedestrians.
 
 ### Walking
-![Transparent Overlay](images\transparent_overlay.png)
+![Transparent Overlay](images/transparent_overlay.png)
 ### Slow walking
-![Transparent Overlay](images\transparent_overlay1.png)
+![Transparent Overlay](images/transparent_overlay1.png)
 ### Static
-![Transparent Overlay](images\transparent_overlay1.png)
+![Transparent Overlay](images/transparent_overlay2.png)
 ## Feature Description 2: Peripheral Warning
 Implement a subtle color change on the edges of the texting interface to draw the user's attention to the phone's periphery.
 
